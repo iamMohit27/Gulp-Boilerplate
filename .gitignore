@@ -1,0 +1,6 @@
+# node specific files
+node_modules
+
+# bower files
+bower_components
+
